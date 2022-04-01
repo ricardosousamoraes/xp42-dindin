@@ -1,0 +1,214 @@
+
+
+main section h1 {
+
+color:  #FF4081;
+
+font-weight: 700;
+font-size: 60px;
+line-height: 69px;
+width: 488px;
+height: 216px;
+left: 206px;
+top: 242px;
+
+}
+
+
+
+main section a{
+    color: #FF4081;
+    border: 2px solid #FF4081;
+    border-radius: 62px;
+    padding: 14px 51px;
+    list-style: none;
+    margin: 0 0 14px;
+    justify-content: flex;
+    width: 270px;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 31px;  
+
+    
+    
+    
+}
+
+
+
+main section p {
+
+    color: #555555;
+    font-size: 27px;
+    font-weight: 400;
+    width: 462px;
+    height: 62px;
+    left: 207px;
+    top: 477px;
+
+
+}
+
+.section1-text {
+    
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 488px;
+    margin-top: 125px;  
+}
+
+.section1-text h1 {
+
+    
+}
+
+.hero{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    max-width: 1440px;  
+}
+
+.hero img{
+    margin-top: 125px;
+}
+
+.hero2 {
+    
+    display: flex;
+    justify-content: space-between;
+    max-width: 1440px; 
+    background-color:#F6F6F6;
+    padding: 117px 0;
+    text-align: center;
+    
+
+    
+}
+
+.hero2 h1{
+
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FF4081;
+    margin-bottom: 23px;
+    
+}
+
+.hero2 p{
+
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    color: #000000;
+    
+    width: 293px;
+
+   
+
+}
+
+
+.hero2 a {
+
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #FF4081;
+    border-radius: 62px;
+    max-height: 270px;
+    margin-bottom: 45px;
+    
+    
+}
+
+.hero3{
+
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1440px; 
+    
+}
+.h1 h1{
+
+   color: #009688;
+   width: 478px;
+   height: 50px;
+   left: 128px;
+top: 1678px;
+font-weight: 700;
+font-size: 37px;
+
+
+}
+
+
+.hero3 img 
+{width: 84px;
+height: 68px;
+border: 3px solid #FF4081;
+box-sizing:border-box;
+border-radius: 50px;
+
+}
+
+.hero3 p{
+
+    width: 363px;
+    height: 70.27px;
+    font-weight: 300;
+    font-size: 18px;    
+
+}
+
+.hero3 h6{
+
+    width: 76px;
+    height: 23.42px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.hero4 {
+
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 1440px; 
+    background-color:#F6F6F6;
+    padding: 0 auto ;
+
+}
+.conteudo h2{
+    max-width: 1440px; 
+    background-color:#F6F6F6;
+    color: #009688;
+    width: 530px;
+    height: 43px;
+   left: 128px;
+   top: 2351px;
+   font-weight: 700;
+   font-size: 37px;
+
+}
+
+.hero4 h3{
+    
+    color: #009688;
+    font-weight: 500 bold;
+font-size: 18px solid ;
+    width: 319px;
+height: 114px;
+left: 128px;
+top: 2671px;
+}
+
+.hero4 p{
+
+    
+    font-weight: 300 bold;
+font-size: 18px;
+    width: 319px;
+height: 114px;
+left: 128px;
+top: 2671px;
+}

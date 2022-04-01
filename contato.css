@@ -1,0 +1,34 @@
+main {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    padding: 83px 0 97px;
+}
+form {
+    width: 493px;
+    height: 32px;
+    margin-right: 200px;
+    
+}
+form fieldset {
+    border: 0;}
+
+    form {
+        margin-right: 40px;
+    }
+    img {
+        width: 444px;
+        height:  444px;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    form {
+        margin-right: 0px;
+    }
+    
+    #mensagem{
+        width: 493px;
+    height: 193px;
+    }
+
+    
